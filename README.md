@@ -9,7 +9,7 @@
 
 > MSP IT professional with a decade of experience supporting diverse client environments. Expert in Microsoft 365, Azure, Oracle Fusion ERP, and enterprise cloud solutions — delivering dependable IT that improves system reliability and end-user experience.
 
-🔗 **Live Portfolio:** [View Resume](https://yuzuki007.github.io/NeilMarvinSimon/)
+🔗 **Live Portfolio:** [View Resume](https://yuzuki007.github.io/Curriculum-Vitae/)
 
 ---
 
